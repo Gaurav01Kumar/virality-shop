@@ -66,13 +66,21 @@ virality_shop/
 ├── apps/
 
 │   ├── products/
+
 │   ├── users/
+
 │   ├── carts/
+
 │   ├── orders/
+
 │   └── ...
+
 ├── static/
+
 ├── templates/
+
 └── ...
+
 
 
 ## Key Features
