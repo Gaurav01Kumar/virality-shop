@@ -27,33 +27,39 @@ Use code with caution. Learn more
     Use code with caution. Learn more
 
 Run database migrations:
+
 Bash
 
 python manage.py migrate
 
-Use code with caution. Learn more
+Use code with caution.
 
 Create a Superuser account:
+
 Bash
 
 python manage.py createsuperuser
 
-Use code with caution. Learn more
+Use code with caution.
 
     (Optional) Configure your chosen payment gateway.
 
 Running the Project
 
     Start the development server:
+    
     Bash
 
     python manage.py runserver
 
-    Use code with caution. Learn more
+    Use code with caution.
 
-    Access the site at http://localhost:8000
+    Access the site at 
+    
+    http://localhost:8000
 
 Project Structure
+
 
 virality_shop/
 
