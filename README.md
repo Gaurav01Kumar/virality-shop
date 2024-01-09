@@ -56,10 +56,15 @@ Running the Project
 Project Structure
 
 virality_shop/
+
 ├── manage.py
+
 ├── settings.py
+
 ├── urls.py
+
 ├── apps/
+
 │   ├── products/
 │   ├── users/
 │   ├── carts/
